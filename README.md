@@ -2,8 +2,6 @@
 
 # Estimación de pi con el algorítmo Monte Carlo de forma Recursiva
 
-# El Recuerdito
-
 Este proyecto consiste en una aplicación Java que utiliza el método de Monte Carlo para estimar el valor de π (pi) de forma recursiva. El método de Monte Carlo es una técnica de simulación que utiliza números aleatorios para resolver problemas numéricos, en este caso, para aproximar el valor de π.
 
 ## Contenido del proyecto
